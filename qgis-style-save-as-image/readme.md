@@ -1,8 +1,8 @@
 Save QGIS Style image as one-layer raster image.
 
-First step:
+**First step:**
 Convert QGIS Style (in .qml) to .txt file.
-Example (qgis-style.qml
+Example (**qgis-style.qml**)
 ```xml
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
 <qgis version="2.18.2" minimumScale="inf" maximumScale="1e+08" hasScaleBasedVisibilityFlag="0">
@@ -37,7 +37,7 @@ Example (qgis-style.qml
 
 ```
 
-Converted to txt (gdal-colors.txt):
+Converted to txt (**gdal-colors.txt**):
 ```txt
 0: 255 255 255 255
 62: 210 0 0 255
@@ -53,6 +53,11 @@ Converted to txt (gdal-colors.txt):
 121: 154 154 154 255
 123: 106 255 255 255
 162: 20 69 249 255
+
+**Second step:**
+Run gdaldem commamnd with color-relief flag, first argument is input file, second is .txt file with colors the last one is output file.
+
+
 ```
 
 GDAL command:
