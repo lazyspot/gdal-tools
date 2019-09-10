@@ -53,12 +53,9 @@ Converted to txt (**gdal-colors.txt**):
 121: 154 154 154 255
 123: 106 255 255 255
 162: 20 69 249 255
-
+```
 **Second step:**
 Run gdaldem commamnd with color-relief flag, first argument is input file, second is .txt file with colors the last one is output file.
-
-
-```
 
 GDAL command:
 ```bash
