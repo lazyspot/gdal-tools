@@ -7,12 +7,12 @@ Example
 
 
 GDAL command:
-'''
+```bash
 gdaldem color-relief inputfile color_table.txt outputfile
-'''
+```
 
 Example:
 
-'''
+```bash
 gdaldem color-relief inputfile.tif color_table.txt outputfile.tif
-'''
+```
