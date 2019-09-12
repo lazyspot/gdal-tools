@@ -62,8 +62,23 @@ GDAL command:
 gdaldem color-relief inputfile color_table.txt outputfile
 ```
 
-Example:
+**Command:**
 
 ```bash
 gdaldem color-relief inputfile.tif color_table.txt outputfile.tif
+```
+
+**Example 1:**
+```bash
+[root@localhost sf_qgis-api]# gdaldem color-relief input-1.tif gdal-colors.txt output-1.tif
+0...10...20...30...40...50...60...70...80...90...100 - done.
+[root@localhost sf_qgis-api]#
+```
+
+
+**Example 2:**
+```bash
+[root@localhost sf_qgis-api]# gdaldem color-relief input-2.tif gdal-colors.txt output-2.tif
+0...10...20...30...40...50...60...70...80...90...100 - done.
+[root@localhost sf_qgis-api]#
 ```
