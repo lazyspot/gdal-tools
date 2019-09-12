@@ -76,6 +76,7 @@ gdaldem color-relief inputfile.tif color_table.txt outputfile.tif
 ```
 ![input-1.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/input-1.tif?raw=true)
 ![output-1.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/output-1.tif?raw=true)
+
 **Example 2:**
 ```bash
 [root@localhost sf_qgis-api]# gdaldem color-relief input-2.tif gdal-colors.txt output-2.tif
