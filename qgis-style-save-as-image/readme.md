@@ -75,10 +75,12 @@ gdaldem color-relief inputfile.tif color_table.txt outputfile.tif
 [root@localhost sf_qgis-api]#
 ```
 ![input-1.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/input-1.tif?raw=true)
-
+![output-1.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/output-1.tif?raw=true)
 **Example 2:**
 ```bash
 [root@localhost sf_qgis-api]# gdaldem color-relief input-2.tif gdal-colors.txt output-2.tif
 0...10...20...30...40...50...60...70...80...90...100 - done.
 [root@localhost sf_qgis-api]#
 ```
+![input-2.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/input-2.tif?raw=true)
+![output-2.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/output-2.tif?raw=true)
