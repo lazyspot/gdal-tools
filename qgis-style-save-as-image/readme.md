@@ -1,6 +1,7 @@
-### Save image with QGIS Style applied.
+### Convert single band raster image to RGB with costumized style.
 
 **First step:**
+Example with QGIS:
 Convert QGIS Style (in .qml) to .txt file.
 This step must be performed by yourself.
 You can use online converters (e.g. (https://www.rapidtables.com/convert/color/hex-to-rgb.html).
@@ -39,7 +40,6 @@ Example (**qgis-style.qml**)
 </qgis>
 
 ```
-
 Converted to txt (**gdal-colors.txt**):
 ```txt
 0: 255 255 255 255
@@ -57,6 +57,25 @@ Converted to txt (**gdal-colors.txt**):
 123: 106 255 255 255
 162: 20 69 249 255
 ```
+
+Description:
+| Value | Red | Green | Blue | Alpha |
+| :------------ | :------------ |
+| 0: | 255 | 255 | 255 | 255 |
+| 62: | 210 | 0 | 0 | 255 |
+| 73: | 253 | 211 | 39 | 255 |
+| 75: | 176 | 91 | 16 | 255 |
+| 82: | 35 | 152 | 0 | 255 |
+| 83: | 8 | 98 | 0 | 255 |
+| 102: | 249 | 150 | 39 | 255 |
+| 103: | 141 | 139 | 0 | 255 |
+| 104: | 95 | 53 | 6 | 255 |
+| 105: | 149 | 107 | 196 | 255 |
+| 106: | 77 | 37 | 106 | 255 |
+| 121: | 154 | 154 | 154 | 255 |
+| 123: | 106 | 255 | 255 | 255 |
+| 162: | 20 | 69 | 249 | 255 |
+
 **Second step:**
 Run gdaldem commamnd with color-relief flag, first argument is input file, second is .txt file with colors the last one is output file.
 
@@ -70,6 +89,8 @@ gdaldem color-relief inputfile color_table.txt outputfile
 ```bash
 gdaldem color-relief inputfile.tif color_table.txt outputfile.tif
 ```
+
+Resolution after convertion is the same.
 
 ```gdaldem``` documentation:
 ![https://gdal.org/programs/gdaldem.html](https://gdal.org/programs/gdaldem.html)
