@@ -1,7 +1,8 @@
 ### Save image with QGIS Style applied.
 
 **First step:**
-Convert QGIS Style (in .qml) to .txt file. This step must be performed by yourself.
+Convert QGIS Style (in .qml) to .txt file. This step must be performed by yourself. You can use online converters (e.g. https://www.rapidtables.com/convert/color/hex-to-rgb.html)
+
 Example (**qgis-style.qml**)
 ```xml
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
