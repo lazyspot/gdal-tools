@@ -57,6 +57,9 @@ Converted to txt (**gdal-colors.txt**):
 **Second step:**
 Run gdaldem commamnd with color-relief flag, first argument is input file, second is .txt file with colors the last one is output file.
 
+**gdaldem** documentation:
+![https://gdal.org/programs/gdaldem.html](https://gdal.org/programs/gdaldem.html)
+
 GDAL command:
 ```bash
 gdaldem color-relief inputfile color_table.txt outputfile
