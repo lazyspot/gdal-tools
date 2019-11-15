@@ -94,7 +94,7 @@ gdaldem color-relief inputfile.tif color_table.txt outputfile.tif
 Resolution after convertion is the same.
 
 ```gdaldem``` documentation:
-![https://gdal.org/programs/gdaldem.html](https://gdal.org/programs/gdaldem.html)
+[https://gdal.org/programs/gdaldem.html](https://gdal.org/programs/gdaldem.html "https://gdal.org/programs/gdaldem.html")
 
 **Example 1:**
 ```bash
