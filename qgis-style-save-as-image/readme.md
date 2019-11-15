@@ -57,7 +57,11 @@ Converted to txt (**gdal-colors.txt**):
 123: 106 255 255 255
 162: 20 69 249 255
 ```
+
 Description:
+
+
+
 
 
 | Value | Red | Green | Blue | Alpha |
@@ -76,6 +80,9 @@ Description:
 | 121: | 154 | 154 | 154 | 255 |
 | 123: | 106 | 255 | 255 | 255 |
 | 162: | 20 | 69 | 249 | 255 |
+
+
+
 
 
 **Second step:**
