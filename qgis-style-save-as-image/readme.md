@@ -1,7 +1,7 @@
-### Save QGIS Style image as one-layer raster image.
+### Save image with QGIS Style applied.
 
 **First step:**
-Convert QGIS Style (in .qml) to .txt file.
+Convert QGIS Style (in .qml) to .txt file. This step must be performed by yourself.
 Example (**qgis-style.qml**)
 ```xml
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
