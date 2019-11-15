@@ -1,4 +1,4 @@
-### Convert single band raster image to RGB with costumized style.
+### Convert single band raster to RGB image with costumized style
 
 **First step:**
 Example with QGIS:
