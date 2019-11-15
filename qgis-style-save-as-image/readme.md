@@ -61,7 +61,11 @@ Converted to txt (**gdal-colors.txt**):
 Description:
 
 
-
+|   Value   |   Red   |   Green   |   Blue   |   Alpha   |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 
 | Value | Red | Green | Blue | Alpha |
