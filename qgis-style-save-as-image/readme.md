@@ -97,7 +97,7 @@ Resolution after convertion is the same.
 [https://gdal.org/programs/gdaldem.html](https://gdal.org/programs/gdaldem.html "https://gdal.org/programs/gdaldem.html")
 
 **Example 1:**
-```bash
+``````bash
 [root@localhost sf_qgis-api]# gdaldem color-relief input-1.tif gdal-colors.txt output-1.tif
 0...10...20...30...40...50...60...70...80...90...100 - done.
 [root@localhost sf_qgis-api]#
@@ -107,7 +107,7 @@ Resolution after convertion is the same.
 ![input-1.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/img/input-1.png) | ![output-1.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/img/output-1.png) |
 
 **Example 2:**
-```bash
+``````bash
 [root@localhost sf_qgis-api]# gdaldem color-relief input-2.tif gdal-colors.txt output-2.tif
 0...10...20...30...40...50...60...70...80...90...100 - done.
 [root@localhost sf_qgis-api]#
