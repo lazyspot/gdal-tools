@@ -68,7 +68,7 @@ gdaldem color-relief inputfile color_table.txt outputfile
 gdaldem color-relief inputfile.tif color_table.txt outputfile.tif
 ```
 
-**gdaldem** documentation:
+```gdaldem``` documentation:
 ![https://gdal.org/programs/gdaldem.html](https://gdal.org/programs/gdaldem.html)
 
 **Example 1:**
