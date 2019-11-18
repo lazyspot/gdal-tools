@@ -4,7 +4,7 @@
 Example with QGIS:
 Convert QGIS Style (in .qml) to .txt file.
 This step must be performed by yourself.
-You can use online converters (e.g. (https://www.rapidtables.com/convert/color/hex-to-rgb.html).
+You can use online converters (e.g. https://www.rapidtables.com/convert/color/hex-to-rgb.html).
 
 Example (**qgis-style.qml**)
 ```xml
