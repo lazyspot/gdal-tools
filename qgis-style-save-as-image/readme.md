@@ -62,20 +62,20 @@ Converted to txt (**gdal-colors.txt**):
 
 |   Color   |   Value   |   Red   |   Green   |   Blue   |   Alpha   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|   ![ffffff-65x25.png](/img/colors/ffffff-65x25.png)   |   0:   |   255   |   255   |   255   |   255   |
-|   ![#f03c15](/qgis-style-save-as-image/img/colors/ffffff-65x25.png)   |   62:   |   210   |   0   |   0   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   73:   |   253   |   211   |   39   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   75:   |   176   |   91   |   16   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   82:   |   35   |   152   |   0   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   83:   |   8   |   98   |   0   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   102:   |   249   |   150   |   39   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   103:   |   141   |   139   |   0   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   104:   |   95   |   53   |   6   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   105:   |   149   |   107   |   196   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   106:   |   77   |   37   |   106   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   121:   |   154   |   154   |   154   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   123:   |   106   |   255   |   255   |   255   |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   162:   |   20   |   69   |   249   |   255   |
+|   ![#ffffff](/qgis-style-save-as-image/img/colors/ffffff-65x25.png)   |   0:   |   255   |   255   |   255   |   255   |
+|   ![#d20000](/qgis-style-save-as-image/img/colors/d20000-65x25.png)   |   62:   |   210   |   0   |   0   |   255   |
+|   ![#fdd327](/qgis-style-save-as-image/img/colors/fdd327-65x25.png)   |   73:   |   253   |   211   |   39   |   255   |
+|   ![#b05b10](/qgis-style-save-as-image/img/colors/b05b10-65x25.png)   |   75:   |   176   |   91   |   16   |   255   |
+|   ![#239800](/qgis-style-save-as-image/img/colors/239800-65x25.png)   |   82:   |   35   |   152   |   0   |   255   |
+|   ![#086200](/qgis-style-save-as-image/img/colors/086200-65x25.png)   |   83:   |   8   |   98   |   0   |   255   |
+|   ![#f99627](/qgis-style-save-as-image/img/colors/f99627-65x25.png)   |   102:   |   249   |   150   |   39   |   255   |
+|   ![#8d8b00](/qgis-style-save-as-image/img/colors/8d8b00-65x25.png)   |   103:   |   141   |   139   |   0   |   255   |
+|   ![#5f3506](/qgis-style-save-as-image/img/colors/5f3506-65x25.png)   |   104:   |   95   |   53   |   6   |   255   |
+|   ![#956bc4](/qgis-style-save-as-image/img/colors/956bc4-65x25.png)   |   105:   |   149   |   107   |   196   |   255   |
+|   ![#4d256a](/qgis-style-save-as-image/img/colors/4d256a-65x25.png)   |   106:   |   77   |   37   |   106   |   255   |
+|   ![#9a9a9a](/qgis-style-save-as-image/img/colors/9a9a9a-65x25.png)   |   121:   |   154   |   154   |   154   |   255   |
+|   ![#6affff](/qgis-style-save-as-image/img/colors/6affff-65x25.png)   |   123:   |   106   |   255   |   255   |   255   |
+|   ![#1445f9](/qgis-style-save-as-image/img/colors/1445f9-65x25.png)   |   162:   |   20   |   69   |   249   |   255   |
 
 **Second step:**
 Run gdaldem commamnd with color-relief flag, first argument is input file, second is .txt file with colors the last one is output file.
