@@ -1,6 +1,8 @@
-### Convert single band raster to RGB image with costumized style
+# Convert single band raster to RGB image with costumized style
 
-**First step:**
+##Using images with constats values.
+This is methods for image with constans values. One value for exactly only one color.
+###**First step:**
 Example with QGIS:
 Convert QGIS Style (in .qml) to .txt file.
 This step must be performed by yourself.
@@ -58,7 +60,7 @@ Converted to txt (**gdal-colors.txt**):
 162: 20 69 249 255
 ```
 
-**Description:**
+######**Description:**
 
 |   Color   |   Value   |   Red   |   Green   |   Blue   |   Alpha   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
