@@ -62,20 +62,20 @@ Converted to txt (**gdal-colors.txt**):
 
 |   Color   |   Value   |   Red   |   Green   |   Blue   |   Alpha   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`   |   0:   |   255   |   255   |   255   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   62:   |   210   |   0   |   0   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   73:   |   253   |   211   |   39   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   75:   |   176   |   91   |   16   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   82:   |   35   |   152   |   0   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   83:   |   8   |   98   |   0   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   102:   |   249   |   150   |   39   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   103:   |   141   |   139   |   0   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   104:   |   95   |   53   |   6   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   105:   |   149   |   107   |   196   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   106:   |   77   |   37   |   106   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   121:   |   154   |   154   |   154   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   123:   |   106   |   255   |   255   |   255   |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   162:   |   20   |   69   |   249   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   0:   |   255   |   255   |   255   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   62:   |   210   |   0   |   0   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   73:   |   253   |   211   |   39   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   75:   |   176   |   91   |   16   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   82:   |   35   |   152   |   0   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   83:   |   8   |   98   |   0   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   102:   |   249   |   150   |   39   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   103:   |   141   |   139   |   0   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   104:   |   95   |   53   |   6   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   105:   |   149   |   107   |   196   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   106:   |   77   |   37   |   106   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   121:   |   154   |   154   |   154   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   123:   |   106   |   255   |   255   |   255   |
+|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   162:   |   20   |   69   |   249   |   255   |
 
 **Second step:**
 Run gdaldem commamnd with color-relief flag, first argument is input file, second is .txt file with colors the last one is output file.
