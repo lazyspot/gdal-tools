@@ -60,22 +60,22 @@ Converted to txt (**gdal-colors.txt**):
 
 **Description:**
 
-|   Value   |   Red   |   Green   |   Blue   |   Alpha   |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-|   0:   |   255   |   255   |   255   |   255   |
-|   62:   |   210   |   0   |   0   |   255   |
-|   73:   |   253   |   211   |   39   |   255   |
-|   75:   |   176   |   91   |   16   |   255   |
-|   82:   |   35   |   152   |   0   |   255   |
-|   83:   |   8   |   98   |   0   |   255   |
-|   102:   |   249   |   150   |   39   |   255   |
-|   103:   |   141   |   139   |   0   |   255   |
-|   104:   |   95   |   53   |   6   |   255   |
-|   105:   |   149   |   107   |   196   |   255   |
-|   106:   |   77   |   37   |   106   |   255   |
-|   121:   |   154   |   154   |   154   |   255   |
-|   123:   |   106   |   255   |   255   |   255   |
-|   162:   |   20   |   69   |   249   |   255   |
+|   Color   |   Value   |   Red   |   Green   |   Blue   |   Alpha   |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   0:   |   255   |   255   |   255   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   62:   |   210   |   0   |   0   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   73:   |   253   |   211   |   39   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   75:   |   176   |   91   |   16   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   82:   |   35   |   152   |   0   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   83:   |   8   |   98   |   0   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   102:   |   249   |   150   |   39   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   103:   |   141   |   139   |   0   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   104:   |   95   |   53   |   6   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   105:   |   149   |   107   |   196   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   106:   |   77   |   37   |   106   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   121:   |   154   |   154   |   154   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   123:   |   106   |   255   |   255   |   255   |
+|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   162:   |   20   |   69   |   249   |   255   |
 
 **Second step:**
 Run gdaldem commamnd with color-relief flag, first argument is input file, second is .txt file with colors the last one is output file.
