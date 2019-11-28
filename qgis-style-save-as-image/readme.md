@@ -62,7 +62,7 @@ Converted to txt (**gdal-colors.txt**):
 
 |   Color   |   Value   |   Red   |   Green   |   Blue   |   Alpha   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   0:   |   255   |   255   |   255   |   255   |
+|   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`   |   0:   |   255   |   255   |   255   |   255   |
 |   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   62:   |   210   |   0   |   0   |   255   |
 |   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   73:   |   253   |   211   |   39   |   255   |
 |   <span style="color:#00FF00;font-size:3em;">&#9724;</span>   |   75:   |   176   |   91   |   16   |   255   |
