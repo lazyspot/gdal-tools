@@ -62,7 +62,7 @@ Converted to txt (**gdal-colors.txt**):
 
 |   Color   |   Value   |   Red   |   Green   |   Blue   |   Alpha   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|   ![#f03c15](/img/colors/ffffff-65x25.png)   |   0:   |   255   |   255   |   255   |   255   |
+|   ![ffffff-65x25.png](/img/colors/ffffff-65x25.png)   |   0:   |   255   |   255   |   255   |   255   |
 |   ![#f03c15](/img/colors/ffffff-65x25.png)   |   62:   |   210   |   0   |   0   |   255   |
 |   ![#f03c15](/img/colors/ffffff-65x25.png)   |   73:   |   253   |   211   |   39   |   255   |
 |   ![#f03c15](/img/colors/ffffff-65x25.png)   |   75:   |   176   |   91   |   16   |   255   |
