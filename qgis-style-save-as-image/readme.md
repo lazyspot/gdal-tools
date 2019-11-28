@@ -62,7 +62,7 @@ Converted to txt (**gdal-colors.txt**):
 162: 20 69 249 255
 ```
 
-###### **Description:**
+#### **Description:**
 
 |   Color   |   Value   |   Red   |   Green   |   Blue   |   Alpha   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -119,3 +119,6 @@ Resolution after convertion is the same.
 | input-2.tif | output-2.tif |
 | :------------ | :------------ |
 | ![input-2.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/img/input-2.png) | ![output-2.tif](https://github.com/lazyspot/gdal-tools/blob/master/qgis-style-save-as-image/img/output-2.png) |
+
+### Using images with compartment values.
+This type of images have one color to values between two value.
