@@ -132,7 +132,7 @@ This type of images have one color to values between two value.
 
 Example in python:
 
-source souce: [gdaldem.py](gdaldem.py)
+source [gdaldem.py](gdaldem.py)
 ```python
 import gdal
 
