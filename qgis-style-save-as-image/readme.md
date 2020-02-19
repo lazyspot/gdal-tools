@@ -125,8 +125,24 @@ This type of images have one color to values between two value.
 
 
 ##Using in python
+
 ```bash
 gdaldem
 ```
 have the interface for python:
 [https://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions](https://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions "https://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions")
+
+Example in python:
+```python
+import gdal
+
+option = gdal.DEMProcessingOptions(band=1,
+                                   colorFilename="gdal-colors.txt")
+gdal.DEMProcessing(processing="color-relief", srcDS="input-1.tif", destName="output-1.tif",
+                   options=option)
+                   
+option = gdal.DEMProcessingOptions(band=1,
+                                   colorFilename="gdal-colors.txt")
+gdal.DEMProcessing(processing="color-relief", srcDS="input-2.tif", destName="output-2.tif",
+                   options=option)
+```
