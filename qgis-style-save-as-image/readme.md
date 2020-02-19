@@ -127,7 +127,7 @@ This type of images have one color to values between two value.
 #### Using in python
 
 
-```gdaldem ``` have the interface for python:
+```gdaldem``` have the interface for python:
 [https://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions](https://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions "https://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions")
 
 Example in python:
