@@ -124,13 +124,14 @@ Resolution after convertion is the same.
 This type of images have one color to values between two value.
 
 
-#### Using in python
+### Using in python
 
 
 ```gdaldem``` have the interface for python:
 [https://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions](https://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions "https://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions")
 
-Example in python [gdaldem.py](gdaldem.py):
+Example in python:
+source souce: [gdaldem.py](gdaldem.py)
 ```python
 import gdal
 
